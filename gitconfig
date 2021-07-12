@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = leodpereda@outlook.com
+	name = Leonardo Pereda
